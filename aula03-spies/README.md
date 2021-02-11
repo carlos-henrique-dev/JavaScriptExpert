@@ -1,0 +1,2 @@
+Spies servem para verificar quantas vezes uma função foi chamada na execução do código. <br>
+Usar spies é importante para identificar chamadas desnecessárias e corrigir para evitar problemas de consumo excessivo de api em produção
